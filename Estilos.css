@@ -1,0 +1,47 @@
+h1 {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    border: 2px ridge rgb(108, 121, 121);
+    background-color: rgb(108, 121, 121);
+    padding: 10px;
+    margin: 30px;
+    height: 20px;
+    width: 90%;
+}
+h2 {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+}
+h3 {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+}
+h4 {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+}
+body {
+  background-color: rgb(230, 216, 195);
+}
+p2 {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+}
+img {
+    float: right;
+  }
+  section {
+    font-family: 'Kanit', sans-serif;
+    width: 400px;
+    border : 20px ridge beige;
+    padding : 20px;
+    margin: 50px;
+    height: 200px;
+    width: 80%;
+  }
+p{
+    font-family:'Kanit', sans-serif;
+}
+ul{
+    font-family:'Kanit', sans-serif;
+}
